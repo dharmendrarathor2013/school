@@ -1,0 +1,1 @@
+<?php echo @$body; ?><?php /**PATH /var/www/html/impact-eschool-erp-main/resources/views/backEnd/email/emailBody.blade.php ENDPATH**/ ?>
